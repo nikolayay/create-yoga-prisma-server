@@ -8,3 +8,5 @@ Custom CR app. Sets up backend environment with Yoga and Prisma.
 [Check this out there!](https://github.com/prisma/prisma "Prisma`s Github page")
 
 # TODO
+1) debug server setup
+2) put prisma set-up in a wizard
